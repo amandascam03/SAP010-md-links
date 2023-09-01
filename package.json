@@ -2,7 +2,7 @@
   "name": "md-links",
   "version": "0.1.0",
   "bin": {
-    "md-links": "./CLI.js"
+    "md-links": "CLI.js"
   },
   "engines": {
     "node": ">=16.x"
@@ -18,5 +18,22 @@
   },
   "scripts": {
     "test": "jest --coverage"
+  },
+  "description": "CLI para ler e extrair informações de links em arquivos Markdown locais, em diretórios e subdiretórios",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandascam03/SAP010-md-links"
+  },
+  "homepage": "https://github.com/amandascam03/SAP010-md-links#readme",
+  "devDependencies": {},
+  "keywords": ["md", "markdown", "files", "directory", "links", "md-links"],
+  "author": "Amanda Araujo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandascam03/SAP010-md-links/issues"
   }
 }
