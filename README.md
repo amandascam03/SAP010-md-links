@@ -28,7 +28,7 @@ O objetivo desta aplicação foi desenvolver uma ferramenta de linha de comando 
 **Utilize o seguinte comando no terminal:**
 
 ```sh
- $ npm install md-links/amandascam03/SAP010-md-links
+ $ npm i md-links-mnds
 ```
 
 `Verifique se você contém arquivos markdown locais para a execução.`
